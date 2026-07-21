@@ -100,14 +100,3 @@ I am a **Computer Engineering Graduate** passionate about bridging hardware and 
 
 ---
 
-### 📫 Connect & Reach Me
-
-- **Email:** [frjhay.delacruz@gmail.com](mailto:frjhay.delacruz@gmail.com)
-- **Phone:** +63 956 713 8150
-- **Location:** Barangay San Juan, Palompon, Leyte, Philippines
-
----
-
-<p align="center">
-  <i>"Building practical, intelligent systems from bare metal to the cloud."</i>
-</p>
