@@ -13,11 +13,11 @@ Builds working prototypes end-to-end — firmware, circuits, backends, and AI fe
 
 <br/>
 
-## 🔭 Currently building
+## Currently building
 
 **EcoVision Sentinel** — a real-time AI security monitoring system: YOLO11 pose/weapon detection, violence classification, FastAPI backend, Next.js dashboard, ESP32 hardware integration.
 
-## 🧠 What I do
+## What I do
 
 - **Applied AI** — computer vision (YOLOv8/v11), LLM integration, workflow automation (n8n)
 - **Full stack, every layer** — embedded (ESP32, PIC16F84A) → backend (FastAPI, Firebase, Supabase) → frontend (React/Next.js) → mobile (Flutter, React Native)
@@ -25,7 +25,7 @@ Builds working prototypes end-to-end — firmware, circuits, backends, and AI fe
 
 <br/>
 
-## 🛠️ Stack
+## Stack
 
 <div align="center">
 
@@ -53,40 +53,57 @@ Builds working prototypes end-to-end — firmware, circuits, backends, and AI fe
 
 <br/>
 
-## 🚀 Featured projects
+## Featured projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="100%">
 
-### 🛰️ EcoVision Smartpole
-<sub>YOLOv11 · Edge AI</sub>
+**EcoVision Smartpole**
+<br/>
+<img src="https://img.shields.io/badge/YOLOv11-111111?style=flat-square" /> <img src="https://img.shields.io/badge/Edge_AI-2E86EB?style=flat-square" />
 
 Solar-powered smart streetlight running a custom-trained YOLOv11 model for real-time environmental monitoring on edge hardware.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
-### 📜 QuestScribe
-<sub>n8n · Ollama · React · Supabase</sub>
+<table width="100%">
+<tr>
+<td width="100%">
+
+**QuestScribe**
+<br/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square" /> <img src="https://img.shields.io/badge/Ollama-2E86EB?style=flat-square" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square" />
 
 Turns lecture materials into gamified, RPG-style study quests using a locally-hosted LLM and an automated content-to-quest pipeline.
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
+</table>
 
-### 📚 Studia
-<sub>Firebase · Gemini API</sub>
+<table width="100%">
+<tr>
+<td width="100%">
+
+**Studia**
+<br/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square" /> <img src="https://img.shields.io/badge/Gemini_API-2E86EB?style=flat-square" />
 
 Parses uploaded academic documents to auto-generate quizzes, synced in real time across devices via Firestore.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
-### 🤖 Sumo-Bot
-<sub>Embedded C/C++</sub>
+<table width="100%">
+<tr>
+<td width="100%">
+
+**Sumo-Bot**
+<br/>
+<img src="https://img.shields.io/badge/Embedded_C%2FC++-00599C?style=flat-square" />
 
 Autonomous 1kg competition combat robot with search-and-destroy and defensive maneuver logic.
 
@@ -98,8 +115,8 @@ Autonomous 1kg competition combat robot with search-and-destroy and defensive ma
 
 <div align="center">
 
-📫 <a href="mailto:frjhay.delacruz@gmail.com">frjhay.delacruz@gmail.com</a>
+frjhay.delacruz@gmail.com
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=2EE6A6" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=2E86EB" alt="Profile views" />
 
 </div>
