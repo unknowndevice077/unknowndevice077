@@ -112,10 +112,3 @@ Autonomous 1kg competition combat robot with search-and-destroy and defensive ma
 </table>
 
 <br/>
-
-<div align="">
-
-frjhay.delacruz@gmail.com
-
-
-</div>
