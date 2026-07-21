@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fritz RJhay L. Dela Cruz
+# Jae
 
 ### Computer Engineer · Full-Stack & Embedded Developer · Applied AI
 
