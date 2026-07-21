@@ -113,10 +113,9 @@ Autonomous 1kg competition combat robot with search-and-destroy and defensive ma
 
 <br/>
 
-<div align="center">
+<div align="">
 
 frjhay.delacruz@gmail.com
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=2E86EB" alt="Profile views" />
 
 </div>
