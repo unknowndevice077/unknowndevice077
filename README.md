@@ -1,23 +1,23 @@
 <div align="center">
 
-# Jae
+# Fritz RJhay L. Dela Cruz
 
 ### Computer Engineer · Full-Stack & Embedded Developer · Applied AI
 
 Builds working prototypes end-to-end — firmware, circuits, backends, and AI features — rather than just one layer of the stack.
 
-<a href="mailto:frjhay.delacruz@gmail.com"><img src="https://img.shields.io/badge/Email-frjhay.delacruz%40gmail.com-2EE6A6?style=flat-square&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Location-Leyte%2C_Philippines-2EE6A6?style=flat-square&logo=googlemaps&logoColor=white" />
+<a href="mailto:frjhay.delacruz@gmail.com"><img src="https://img.shields.io/badge/Email-frjhay.delacruz%40gmail.com-2E86EB?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Location-Leyte%2C_Philippines-2E86EB?style=flat-square&logo=googlemaps&logoColor=white" />
 
 </div>
 
 <br/>
 
-## Currently building
+## 🔭 Currently building
 
 **EcoVision Sentinel** — a real-time AI security monitoring system: YOLO11 pose/weapon detection, violence classification, FastAPI backend, Next.js dashboard, ESP32 hardware integration.
 
-## What I do
+## 🧠 What I do
 
 - **Applied AI** — computer vision (YOLOv8/v11), LLM integration, workflow automation (n8n)
 - **Full stack, every layer** — embedded (ESP32, PIC16F84A) → backend (FastAPI, Firebase, Supabase) → frontend (React/Next.js) → mobile (Flutter, React Native)
@@ -25,7 +25,7 @@ Builds working prototypes end-to-end — firmware, circuits, backends, and AI fe
 
 <br/>
 
-## Stack
+## 🛠️ Stack
 
 <div align="center">
 
@@ -53,13 +53,13 @@ Builds working prototypes end-to-end — firmware, circuits, backends, and AI fe
 
 <br/>
 
-## Featured projects
+## 🚀 Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### EcoVision Smartpole
+### 🛰️ EcoVision Smartpole
 <sub>YOLOv11 · Edge AI</sub>
 
 Solar-powered smart streetlight running a custom-trained YOLOv11 model for real-time environmental monitoring on edge hardware.
@@ -67,7 +67,7 @@ Solar-powered smart streetlight running a custom-trained YOLOv11 model for real-
 </td>
 <td width="50%" valign="top">
 
-### QuestScribe
+### 📜 QuestScribe
 <sub>n8n · Ollama · React · Supabase</sub>
 
 Turns lecture materials into gamified, RPG-style study quests using a locally-hosted LLM and an automated content-to-quest pipeline.
@@ -77,7 +77,7 @@ Turns lecture materials into gamified, RPG-style study quests using a locally-ho
 <tr>
 <td width="50%" valign="top">
 
-### Studia
+### 📚 Studia
 <sub>Firebase · Gemini API</sub>
 
 Parses uploaded academic documents to auto-generate quizzes, synced in real time across devices via Firestore.
@@ -85,7 +85,7 @@ Parses uploaded academic documents to auto-generate quizzes, synced in real time
 </td>
 <td width="50%" valign="top">
 
-### Sumo-Bot
+### 🤖 Sumo-Bot
 <sub>Embedded C/C++</sub>
 
 Autonomous 1kg competition combat robot with search-and-destroy and defensive maneuver logic.
