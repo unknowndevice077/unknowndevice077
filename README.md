@@ -2,15 +2,6 @@
   Computer Engineering grad who builds working prototypes end-to-end — firmware, circuits, backends, and AI features — rather than just one layer of the stack.
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Building+EcoVision+Sentinel+%E2%80%94+real-time+AI+security+monitoring;Computer+Vision+%7C+LLMs+%7C+Embedded+Systems;Firmware+to+Full-Stack%2C+I+ship+the+whole+thing" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="mailto:frjhay.delacruz@gmail.com"><img src="https://img.shields.io/badge/Email-frjhay.delacruz%40gmail.com-2EE6A6?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Leyte%2C_Philippines-2EE6A6?style=flat-square&logo=googlemaps&logoColor=white" />
-</p>
-
 ---
 
 ### 🔭 What I'm building
@@ -89,10 +80,6 @@ Autonomous 1kg competition combat robot with search-and-destroy and defensive ma
 </table>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=2EE6A6" alt="Profile views" />
-</p>
 
 <p align="center">
   📫 <a href="mailto:frjhay.delacruz@gmail.com">frjhay.delacruz@gmail.com</a>
