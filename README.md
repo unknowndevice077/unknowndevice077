@@ -73,11 +73,11 @@ Solar-powered smart streetlight running a custom-trained YOLOv11 model for real-
 <tr>
 <td width="100%">
 
-**QuestScribe**
+**Line Following Robot**
 <br/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square" /> <img src="https://img.shields.io/badge/Ollama-2E86EB?style=flat-square" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square" />
+<img src="https://img.shields.io/badge/Embedded_C%2FC++-00599C?style=flat-square" /> <img src="https://img.shields.io/badge/IR_Sensors-2E86EB?style=flat-square" />
 
-Turns lecture materials into gamified, RPG-style study quests using a locally-hosted LLM and an automated content-to-quest pipeline.
+Autonomous navigation robot using two standard IR sensors for real-time line detection and smooth path correction across curves and intersections.
 
 </td>
 </tr>
