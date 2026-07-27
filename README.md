@@ -13,15 +13,11 @@ Builds working prototypes end-to-end — firmware, circuits, backends, and AI fe
 
 <br/>
 
-## Currently building
-
-**EcoVision Sentinel** — a real-time AI security monitoring system: YOLO11 pose/weapon detection, violence classification, FastAPI backend, Next.js dashboard, ESP32 hardware integration.
 
 ## What I do
 
 - **Applied AI** — computer vision (YOLOv8/v11), LLM integration, workflow automation (n8n)
 - **Full stack, every layer** — embedded (ESP32, PIC16F84A) → backend (FastAPI, Firebase, Supabase) → frontend (React/Next.js) → mobile (Flutter, React Native)
-- **Competitive programming** — CodeChum National Programming Challenge, regional AI hackathons
 
 <br/>
 
