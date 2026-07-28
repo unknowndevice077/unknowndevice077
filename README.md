@@ -3,9 +3,6 @@
 # Jae
 
 ### Computer Engineer · Full-Stack & Embedded Developer · Applied AI
-
-Builds working prototypes end-to-end — firmware, circuits, backends, and AI features — rather than just one layer of the stack.
-
 <a href="mailto:frjhay.delacruz@gmail.com"><img src="https://img.shields.io/badge/Email-frjhay.delacruz%40gmail.com-2E86EB?style=flat-square&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Location-Leyte%2C_Philippines-2E86EB?style=flat-square&logo=googlemaps&logoColor=white" />
 
