@@ -1,6 +1,5 @@
 <div align="center">
 
-# Jae
 
 ### Computer Engineer · Full-Stack & Embedded Developer · Applied AI
 <a href="mailto:frjhay.delacruz@gmail.com"><img src="https://img.shields.io/badge/Email-frjhay.delacruz%40gmail.com-2E86EB?style=flat-square&logo=gmail&logoColor=white" /></a>
