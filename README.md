@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://jae-portfoliooo.vercel.app/play"><img src="assets/arcade.svg" alt="Fritz Rjhay L. Dela Cruz, a pixel spaceship clearing a wave of bugs" width="100%" /></a>
+<a href="https://jae-portfoliooo.vercel.app/playground"><img src="assets/arcade.svg" alt="Fritz Rjhay L. Dela Cruz, a pixel spaceship clearing a wave of bugs" width="100%" /></a>
 
 <a href="https://jae-portfoliooo.vercel.app"><img src="https://img.shields.io/badge/Portfolio-visit-2f54d8?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="mailto:frjhay.delacruz@gmail.com"><img src="https://img.shields.io/badge/Email-frjhay.delacruz%40gmail.com-2E86EB?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -29,7 +29,7 @@ Computer engineer from Leyte. I build software and hardware, from web and mobile
 | [**QueueUp**](https://github.com/unknowndevice077/queueup) | Booking and walk-in queue SaaS for clinics, barbers and salons, with a "Now Serving" TV board |
 | [**jaemboy**](https://github.com/unknowndevice077/jaemboy) | ESP32 handheld console running a Doom-style raycaster, controlled from your phone |
 
-More on the [portfolio](https://jae-portfoliooo.vercel.app), plus 9 browser games with leaderboards on the [play page](https://jae-portfoliooo.vercel.app/play). Come beat my score.
+More on the [portfolio](https://jae-portfoliooo.vercel.app), plus 9 browser games with leaderboards on the [play page](https://jae-portfoliooo.vercel.app/playground). Come beat my score.
 
 <br/>
 
