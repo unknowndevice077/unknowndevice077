@@ -12,7 +12,7 @@
 
 ## Hi, I'm Rjhay (or Jae)
 
-Computer engineer from Leyte. I like building the whole thing: the sensor on the pole, the backend it talks to, the dashboard people actually look at, and the phone app in their pocket. Lately that means computer vision for barangay CCTV, flood warnings for creek and coastal communities, and small-business tools that replace paper logbooks.
+Computer engineer from Leyte. I build software and hardware, from web and mobile apps to AI models and microcontrollers, and I like taking an idea all the way from a rough sketch to something people can actually use. Most of my free time goes into side projects, small games and learning whatever I need to finish the next one.
 
 - **Applied AI**: computer vision (YOLOv8/v11, X3D), LLM integration, workflow automation (n8n)
 - **Full stack, every layer**: embedded (ESP32, PIC16F84A) → backend (FastAPI, Spring Boot, Supabase) → frontend (React/Next.js) → mobile (Flutter, React Native)
