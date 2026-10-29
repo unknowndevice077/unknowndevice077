@@ -21,13 +21,13 @@ Computer engineer from Leyte. I like building the whole thing: the sensor on the
 
 ## Things I've built
 
-| | Project | What it is |
-|---|---|---|
-| 🚨 | [**EcoVision Security Sentinel**](https://github.com/unknowndevice077/ecovision-crime-detection-ai) | AI crime detection for barangay CCTV. Catches 88% of fights at about 2 false alarms an hour on real street footage |
-| 🌊 | [**Bantay Baha**](https://github.com/unknowndevice077/bantay-baha) · [live](https://embeddedbantaybaha.vercel.app) | ESP32 flood early warning with a 3D simulator, a story game and a storm-surge coastal mode |
-| 📚 | [**MedNotes E-Library**](https://github.com/unknowndevice077/MedNotes-E-Library) · [live](https://unknowndevice077.github.io/MedNotes-E-Library/) | Paid e-library for medical study files on web and Android, with device limits and traced PDFs |
-| 🎟️ | [**QueueUp**](https://github.com/unknowndevice077/queueup) | Booking and walk-in queue SaaS for clinics, barbers and salons, with a "Now Serving" TV board |
-| 🕹️ | [**jaemboy**](https://github.com/unknowndevice077/jaemboy) | ESP32 handheld console running a Doom-style raycaster, controlled from your phone |
+| Project | What it is |
+|---|---|
+| [**EcoVision Security Sentinel**](https://github.com/unknowndevice077/ecovision-crime-detection-ai) | AI crime detection for barangay CCTV. Catches 88% of fights at about 2 false alarms an hour on real street footage |
+| [**Bantay Baha**](https://github.com/unknowndevice077/bantay-baha) · [live](https://embeddedbantaybaha.vercel.app) | ESP32 flood early warning with a 3D simulator, a story game and a storm-surge coastal mode |
+| [**MedNotes E-Library**](https://github.com/unknowndevice077/MedNotes-E-Library) · [live](https://unknowndevice077.github.io/MedNotes-E-Library/) | Paid e-library for medical study files on web and Android, with device limits and traced PDFs |
+| [**QueueUp**](https://github.com/unknowndevice077/queueup) | Booking and walk-in queue SaaS for clinics, barbers and salons, with a "Now Serving" TV board |
+| [**jaemboy**](https://github.com/unknowndevice077/jaemboy) | ESP32 handheld console running a Doom-style raycaster, controlled from your phone |
 
 More on the [portfolio](https://portfolio-five-rho-21.vercel.app), plus 9 browser games with leaderboards on the [play page](https://portfolio-five-rho-21.vercel.app/play). Come beat my score.
 
